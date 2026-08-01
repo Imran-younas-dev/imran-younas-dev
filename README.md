@@ -108,9 +108,6 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 <p align="center">
   <img height="170"
        src="https://streak-stats.demolab.com?user=imran-younas-dev&theme=tokyonight&hide_border=true"/>
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-younas-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

@@ -35,7 +35,7 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 # 💫 About Me
 
 - 💼 Full Stack Software Engineer with **4+ years of professional experience**
-- 🏢 Currently working as a **Full Stack Engineer at Cygnis Media**
+- 🏢 Currently working as a **Full Stack AI Engineer at Cygnis Media**
 - ⚙️ Designing and building scalable backend systems, REST APIs, real-time applications, and enterprise software
 - 🤖 Building AI-powered applications using LLMs, RAG, AI Agents, and modern AI frameworks
 - 🏗 Passionate about System Design, Distributed Systems, Cloud Architecture, and High-Performance Backend Engineering
